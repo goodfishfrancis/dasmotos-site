@@ -268,3 +268,14 @@ textarea {
   color: blue;
 }
 
+.title {
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  background-image: url("../img/pattern.jpeg");
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
