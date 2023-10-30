@@ -276,6 +276,10 @@ textarea {
   text-align: center;
 }
 
+.content {
+  padding: 1em;
+}
+
 footer {
   text-align: center;
 }
