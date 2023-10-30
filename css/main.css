@@ -15,6 +15,7 @@ html {
   color: #222;
   font-size: 1em;
   line-height: 1.4;
+  font-family: Helvetica;
 }
 
 /*
@@ -259,5 +260,11 @@ textarea {
   h3 {
     page-break-after: avoid;
   }
+}
+
+/*CSS Classes*/
+.pricing {
+  font-weight: bold;
+  color: blue;
 }
 
